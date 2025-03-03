@@ -7,7 +7,6 @@ This project aims to detect **phishing URLs** using machine learning techniques.
 - **Feature Extraction**: Extracting 22 lexical features from URLs.
 - **Machine Learning Models**:
   - **XGBoost**
-  - **LightGBM**
   - **Random Forest** (Best Model with **96.6% Accuracy**)
 - **Feature Importance Analysis**: Identifying key attributes contributing to phishing detection.
 - **Prediction System**: Classifies URLs as phishing or legitimate.
